@@ -16,4 +16,4 @@ News updates: The application also provides news updates related to the pandemic
 
 The COVID-19 Dashboard project in ReactJS is a useful tool for people who want to stay informed about the pandemic and track its impact on their community. It is also a great example of how ReactJS can be used to build interactive and responsive web applications.
 
-TECHOLOGIES USED:REACTJS,HTML,CSS,NODEJS,JAVASCRIPT
+TECHOLOGIES USED--REACTJS,HTML,CSS,NODEJS,JAVASCRIPT
